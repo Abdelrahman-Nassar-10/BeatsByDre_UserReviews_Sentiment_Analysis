@@ -1,0 +1,11 @@
+google
+ipykernel
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+requests
+scikit-learn
+seaborn
+textblob
