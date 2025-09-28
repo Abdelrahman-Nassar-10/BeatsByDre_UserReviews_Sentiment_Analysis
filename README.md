@@ -1,4 +1,4 @@
-# Beats by Dre — Online Internship Capstone
+# Beats by Dre — Sentiment Analysis Of User Reviews 
 
 A professional packaging of my capstone project from an online internship with **Beats by Dre**.
 This repository contains the original analysis notebook and a clean project structure to make it easy to review, reproduce, and extend.
@@ -25,14 +25,13 @@ beats-by-dre-capstone/
 │     └─ .gitkeep
 ├─ requirements.txt
 ├─ .gitignore
-├─ LICENSE
 └─ README.md
 ```
 
 ---
 
 
-### 1) Create a Python environment and install dependencies
+## Create a Python environment and install dependencies
 
 Using **pip + venv**:
 
@@ -60,15 +59,6 @@ This capstone explores data and insights relevant to the Beats by Dre internship
 - Evaluation and recommendations
 
 > See `notebooks/Beats by dre project capstone.ipynb` for the full analysis and results.
-
----
-
-
-
-
-## License
-
-This project is released under the MIT License (see [LICENSE](LICENSE)).
 
 
 
